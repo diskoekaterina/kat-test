@@ -21,4 +21,5 @@ Copier le contenu de ce repo dans votre nouveau project
 * La base pour la mise en place du **Docker**
 
 ## Docker
-- [ ] Infos à venir prochainement
+
+Infos à venir prochainement
