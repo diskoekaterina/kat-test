@@ -7,9 +7,11 @@ Disko - WP project starter
 Copier le contenu de ce repo dans votre nouveau project
 
 > Si vous ne souhaitez pas utiliser DOCKER, ne copier que le dossier
+
 ```
 /src
 ```
+
 ## Ce qu'il est inclus
 
 WordPress vierge avec une selection des plugins
