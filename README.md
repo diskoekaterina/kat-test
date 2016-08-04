@@ -14,11 +14,11 @@ Copier le contenu de ce repo dans votre nouveau project
 
 ## Ce qu'il est inclus
 
-* WordPress vierge avec une selection des plugins
+* WordPress vierge avec une selection des **plugins WP**
 
     * (Vous trouverez la liste complete des plugins achetés/conseillés par Disko dans le fichier "Outils Dev" sur le google drive)
 
-* La base pour la mise en place du Docker
+* La base pour la mise en place du **Docker**
 
 ## Docker
 - [ ] Infos à venir prochainement
